@@ -1,5 +1,3 @@
-import re
-
 with open('input') as input:
     captcha = list(map(int, input.read().rstrip()))
 
